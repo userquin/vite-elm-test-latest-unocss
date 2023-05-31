@@ -1,5 +1,8 @@
 # Vite Elm Template
 
+Open repo in [StackBlitz](https://stackblitz.com/fork/github/userquin/vite-elm-test-latest-unocss)
+
+
 [![ci](https://github.com/lindsaykwardell/vite-elm-template/actions/workflows/ci.yml/badge.svg)](https://github.com/lindsaykwardell/vite-elm-template/actions/workflows/ci.yml)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/lindsaykwardell/vite-elm-template)
 
