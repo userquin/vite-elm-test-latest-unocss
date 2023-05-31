@@ -20,6 +20,7 @@
     "vite-plugin-elm": "^2.8.0"
   },
   "stackblitz": {
-    "startCommand": "npm install && npm run dev"
+    "installDependencies": true,
+    "startCommand": "npm run dev"
   }
 }
