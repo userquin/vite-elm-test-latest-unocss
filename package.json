@@ -5,22 +5,19 @@
   "version": "1.8.0",
   "license": "MIT",
   "scripts": {
-    "postinstall": "elm-tooling install",
+    "xpostinstall": "elm-tooling install",
     "dev": "vite",
-    "prebuild": "elm-tooling install",
+    "xprebuild": "elm-tooling install",
     "build": "vite build",
     "serve": "vite preview",
     "lint": "elm-review",
     "test": "elm-test-rs"
   },
   "devDependencies": {
-    "elm-review": "^2.10.1",
-    "elm-tooling": "^1.14.0",
-    "vite": "^4.3.0",
-    "vite-plugin-elm": "^2.8.0-beta.3"
-  },
-  "dependencies": {
-    "elm-debug-transformer": "^1.1.2"
+    "elm": "^0.19.1",
+    "unocss": "^0.52.7",
+    "vite": "^4.3.9",
+    "vite-plugin-elm": "^2.8.0"
   },
   "stackblitz": {
     "startCommand": "npm install && npm run dev"
